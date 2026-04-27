@@ -24,3 +24,4 @@ me = Developer(
 ```
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuothTheRaven42&theme=github-dark)
+![Alt text](https://github.com/tthn0/tthn0/blob/main/Images/Miscellaneous/Gradients.svg)
