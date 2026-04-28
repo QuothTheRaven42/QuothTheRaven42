@@ -14,7 +14,7 @@ class Developer:
 
 me = Developer(
     name="David",
-    location="Bremerton, WA",
+    location="Seattle, WA",
     languages=["Python"],
     currently_learning=["APIs", "Github Actions", "testing"],
     recent_projects=["Spotify Playlist Tool", "Markov Chain Poetry Generator"],
