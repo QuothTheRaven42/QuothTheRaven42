@@ -18,7 +18,7 @@ me = Developer(
     languages=["Python"],
     currently_learning=["APIs", "Github Actions", "OOP", "testing"],
     recent_projects=["Spotify Playlist Tool", "Markov Chain Poetry Generator"],
-    interests=["music", "typewriters", "RPGs", "anime", "video games", "books", "hiking"],
+    interests=["music", "typewriters", "TTRPGs", "anime", "video games", "books", "hiking"],
     goal="Junior Python Developer",
 )
 ```
