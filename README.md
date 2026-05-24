@@ -23,6 +23,6 @@ me = Developer(
 )
 ```
 
-[![Your GitHub Stats](https://vercel.app)](https://github.com)
+[![Your GitHub Stats](https://vercel.app)](https://github.com/QuothTheRaven42/github-readme-stats)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuothTheRaven42&theme=github-dark)
