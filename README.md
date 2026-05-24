@@ -23,6 +23,11 @@ me = Developer(
 )
 ```
 
-[![Your GitHub Stats](https://vercel.app)](https://github.com/QuothTheRaven42/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QuothTheRaven42&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuothTheRaven42&theme=dark&hide_border=true" height="160"/>
+</p>
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuothTheRaven42&theme=github-dark)
