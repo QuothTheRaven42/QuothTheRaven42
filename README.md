@@ -24,3 +24,7 @@ me = Developer(
 ```
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuothTheRaven42&theme=github-dark)
+<p align="center">
+  <img src="./profile/stats.svg" height="180"/>
+  <img src="./profile/top-langs.svg" height="180"/>
+</p>
